@@ -1,0 +1,24 @@
+body {
+    background-color: powderblue;
+    border-width: 5px;
+    margin: 50px;
+   
+  }
+  h1 {
+    color: blue;
+    text-align: center;
+  }
+  h2 {
+    color: blue;
+  }
+  h3 {
+    color: blue;
+  }
+  p {
+    color: black;
+  }
+  img.NP {
+    height: 50%;
+    width: 50%;
+  }
+  
